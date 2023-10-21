@@ -1,4 +1,4 @@
-# Teresa Chow
+# About
 > _Hello, thank you for stopping by._ ✨
 
 </br>

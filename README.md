@@ -1,5 +1,5 @@
 # Teresa Chow
-> 🌱 _perpetually curious_
+> _Hello, thank you for stopping by._ ✨
 
 </br>
 

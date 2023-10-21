@@ -25,13 +25,13 @@ ___
 
 ![Vim](https://img.shields.io/badge/vim-0D1117.svg?style=for-the-badge&logo=vim&logoColor=019733)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
-![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ___
 ### Software
 
-![After Effects](https://img.shields.io/badge/aftereffects-0D1117.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
+![After Effects](https://img.shields.io/badge/after%20effects-0D1117.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
 ![Premiere](https://img.shields.io/badge/premiere-0D1117.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 ![Photoshop](https://img.shields.io/badge/photoshop-0D1117.svg?style=for-the-badge&logo=adobephotoshop&logoColor=4C8CD5)
-![In Design](https://img.shields.io/badge/indesign-0D1117.svg?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+![InDesign](https://img.shields.io/badge/indesign-0D1117.svg?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 ![Audition](https://img.shields.io/badge/audition-0D1117.svg?style=for-the-badge&logo=adobeaudition&logoColor=9999FF)

@@ -23,6 +23,7 @@ ___
 ___
 ### Tools
 
+![Vim](https://img.shields.io/badge/vim-0D1117.svg?style=for-the-badge&logo=vim&logoColor=019733)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![Github](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
 

@@ -1,5 +1,5 @@
 # About
-> _Hello, thank you for stopping by._ ✨
+> _Hello, thanks for stopping by._ ✨
 
 </br>
 

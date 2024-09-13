@@ -25,6 +25,8 @@ ___
 ___
 ### Tools
 
+![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=white)
+![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge)
 ![Vim](https://img.shields.io/badge/vim-0D1117.svg?style=for-the-badge&logo=vim&logoColor=019733)
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)

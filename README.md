@@ -20,7 +20,9 @@ ___
 ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
 ![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-0D1117.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/css-0D1117.svg?style=for-the-badge&logo=css&logoColor=white)
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=teresa-chow&hide_title=1&layout=compact&theme=tokyonight)
 
 ___
 ### Tools

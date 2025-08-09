@@ -1,5 +1,4 @@
-# About
-> _Hello, thanks for stopping by._ ✨
+## Teresa Chow
 
 </br>
 
@@ -14,34 +13,32 @@ My interests revolve around media, technology, education, collaborative methodol
 </br>
 
 ___
-### Languages
+#### Languages
 
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
 ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PHP](https://img.shields.io/badge/php-0D1117.svg?style=for-the-badge&logo=php)
 ![HTML5](https://img.shields.io/badge/html-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
-![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-0D1117.svg?style=for-the-badge&logo=css&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-0D1117.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=teresa-chow&hide_title=1&layout=compact&theme=tokyonight)
 
-___
-### Development tools and Environments
+#### Development tools and Environments
 
 ![Git](https://img.shields.io/badge/git-0D1117.svg?style=for-the-badge&logo=git&logoColor=F5942C)
 ![GitHub](https://img.shields.io/badge/github-0D1117.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/vscode-0D1117.svg?style=for-the-badge)
 ![Vim](https://img.shields.io/badge/vim-0D1117.svg?style=for-the-badge&logo=vim&logoColor=019733)
 
-___
-### Design and Prototyping
+#### Design and Prototyping
 
 ![Figma](https://img.shields.io/badge/figma-0D1117.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/photoshop-0D1117.svg?style=for-the-badge&logo=adobephotoshop&logoColor=4C8CD5)
 ![Illustrator](https://img.shields.io/badge/illustrator-0D1117.svg?style=for-the-badge&logo=adobeillustrator&logoColor=4C8CD5)
 ![InDesign](https://img.shields.io/badge/indesign-0D1117.svg?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 
-___
-### Motion and Video editing
+#### Motion and Video editing
 
 ![After Effects](https://img.shields.io/badge/after%20effects-0D1117.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=9999FF)
 ![Premiere](https://img.shields.io/badge/premiere-0D1117.svg?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)

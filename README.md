@@ -1,14 +1,10 @@
-## Teresa Chow
+## About
 
 </br>
 
 I'm a visual artist & motion designer diving into programming at 42 Porto:
 
-[Check my Common Core curriculum projects here.](https://github.com/teresa-chow/42-common-core/)
-
-There, we engage in project-based, peer-to-peer learning, while living 42's founding vision of computer education free (fully-funded) and accessible to all.
-
-My interests revolve around media, technology, education, collaborative methodologies and the humanities (particularly, languages, art and culture).
+[Coursework index](https://github.com/teresa-chow/42-common-core/)
 
 </br>
 

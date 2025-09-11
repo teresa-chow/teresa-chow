@@ -12,6 +12,7 @@ ___
 #### Languages
 
 ![C](https://img.shields.io/badge/c-0D1117.svg?style=for-the-badge&logo=c&logoColor=3893F5)
+![C++](https://img.shields.io/badge/c++-0D1117.svg?style=for-the-badge&logo=cplusplus&logoColor=3893F5)
 ![Shell](https://img.shields.io/badge/shell-0D1117.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-0D1117.svg?style=for-the-badge&logo=php)
 ![HTML5](https://img.shields.io/badge/html-0D1117.svg?style=for-the-badge&logo=html5&logoColor=F5942C)
